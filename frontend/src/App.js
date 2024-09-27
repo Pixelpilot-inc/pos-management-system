@@ -17,7 +17,7 @@ import PrivateRoute from './pages/PrivateRoute'
 function App() {
   return (
     <>
-    <Router>
+    <Router >
       <div className="App">
         <Routes>
           <Route path='/' element={<Home />} />

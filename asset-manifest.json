@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.55b3430a.css",
-    "main.js": "/static/js/main.329ffee1.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/media/pos-bg.png": "/static/media/pos-bg.a884b21558788738bab7.png",
-    "static/media/users.png": "/static/media/users.b1cbd71805e81017f3a1.png",
-    "static/media/order.png": "/static/media/order.16b69a466ae906f110d2.png",
-    "static/media/category.png": "/static/media/category.f29da24ccc00547774c3.png",
-    "static/media/products.png": "/static/media/products.a3a2176eeae45b1e65d4.png",
-    "static/media/product.png": "/static/media/product.a3aed222296ff22cd857.png",
-    "index.html": "/index.html",
-    "main.55b3430a.css.map": "/static/css/main.55b3430a.css.map",
-    "main.329ffee1.js.map": "/static/js/main.329ffee1.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/pos-management-system/static/css/main.55b3430a.css",
+    "main.js": "/pos-management-system/static/js/main.2b86208d.js",
+    "static/js/787.cda612ba.chunk.js": "/pos-management-system/static/js/787.cda612ba.chunk.js",
+    "static/media/pos-bg.png": "/pos-management-system/static/media/pos-bg.a884b21558788738bab7.png",
+    "static/media/users.png": "/pos-management-system/static/media/users.b1cbd71805e81017f3a1.png",
+    "static/media/order.png": "/pos-management-system/static/media/order.16b69a466ae906f110d2.png",
+    "static/media/category.png": "/pos-management-system/static/media/category.f29da24ccc00547774c3.png",
+    "static/media/products.png": "/pos-management-system/static/media/products.a3a2176eeae45b1e65d4.png",
+    "static/media/product.png": "/pos-management-system/static/media/product.a3aed222296ff22cd857.png",
+    "index.html": "/pos-management-system/index.html",
+    "main.55b3430a.css.map": "/pos-management-system/static/css/main.55b3430a.css.map",
+    "main.2b86208d.js.map": "/pos-management-system/static/js/main.2b86208d.js.map",
+    "787.cda612ba.chunk.js.map": "/pos-management-system/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55b3430a.css",
-    "static/js/main.329ffee1.js"
+    "static/js/main.2b86208d.js"
   ]
 }
